@@ -1,5 +1,4 @@
-![github-header-image](https://github.com/CalenCoop/readme.md/assets/127441048/c3d419fc-d0bd-411d-a816-f77a5803e0af)
-
+![github-header-image](https://github.com/CalenCoop/CalenCoop/assets/127441048/3b7c7f01-75fc-4a2b-bfa5-4dc3894d1f15)
 
 ## Hi there 👋, Im Calen!
 
