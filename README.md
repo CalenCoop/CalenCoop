@@ -1,47 +1,68 @@
 ![github-header-image (2)](https://github.com/CalenCoop/CalenCoop/assets/127441048/df3df7fc-5034-4822-a4eb-c43173310884)
 
+# Hi there 👋 I’m Calen Cooper
 
-## Hi there 👋, Im Calen!
+I’m a full-stack software engineer with a passion for building thoughtful, user-focused applications and scalable backend systems.  
+My path into tech is self-taught and shaped by curiosity, resilience, and a love for solving meaningful problems.
 
-I'm always looking to learn, but here's some of the things I've learned so far.
+---
 
-**I love working with**
+## 💻 What I Work With
 
-<div display="flex">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  
-</div>
-
-### 🌱 I’m learning
-
-<div display="flex">
+<div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-
-  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
-### 🤔 About Me
+---
 
-Hello there! 👋 I'm Calen, a passionate programmer and problem-solving addict. I bring a fresh perspective and a relentless curiosity for learning new concepts in the ever-evolving world of technology.
+## 🚧 Currently Exploring
 
-I started my journey in programming with a foundation in HTML, CSS, and JavaScript. Over time, I've honed my skills and expanded my toolkit to include Node.js and MongoDB, among other technologies. 
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+</div>
 
-### 📫 Lets Connect
+---
 
-<div display="flex">
-  <a href="www.linkedin.com/in/calencooper">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+## 🛠 Recent Work
+
+- **MealPreppers**: A full-stack social app for meal planning and fitness. Includes user auth, file uploads, likes/follows, and robust CRUD functionality.
+- **StudyFlow** *(in progress)*: An AI-powered study planner integrating with Google Calendar for intelligent time-blocking and task prioritization.
+- **CodeReview.AI** *(in progress)*: A dev-focused platform for submitting GitHub PRs and receiving AI-generated feedback using the GitHub API, Vite, Next.js, and Prisma. Includes dynamic diff rendering, full repo parsing, and AI model experimentation.
+
+---
+
+## 🎯 Philosophy
+
+I’m big on clean code, thoughtful design, and understanding the "why" behind the tools we use.  
+I gravitate toward backend work but love bridging the gap between frontend usability and system-level thinking.  
+My background in psychology and sales gives me an edge in understanding people—something I try to bring to both my code and my collaboration style.
+
+---
+
+## 📫 Let’s Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/calencooper">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/CalenCoop">
-    <img src="https://img.shields.io/badge/CalenCoop-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://calencoop.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
-### ⚡ Fun fact
+---
 
-I've been teaching myself how to play the piano now for a few years. It's a work in progress, just like my code. If you want to talk music or code, I'm all ears. 🎶💻# 
+## 🎵 Fun Fact
+
+I’ve been teaching myself piano for the past few years—debugging sheet music isn’t that different from debugging code.  
+If you ever want to talk music, dev tools, or big ideas, I’m all ears.
